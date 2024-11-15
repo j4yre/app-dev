@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# ==Spider-Man: Into the Spider-Verse==
+# Spider-Man: Into the Spider-Verse
 > is a 2018 American animated superhero film featuring the Marvel Comics character Miles Morales / Spider-Man, produced by Columbia Pictures and Sony Pictures Animation in association with Marvel Entertainment, and distributed by Sony Pictures Releasing.
 ---
 ## Characters
